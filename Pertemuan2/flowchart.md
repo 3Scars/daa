@@ -2,7 +2,7 @@
     flowchart TD;
 
     A(Start) --> B[/masukkan nilai P/];
-    B --> C{Inpuotan Angka}
+    B --> C{Inputan Angka}
     C -- Tidak --> B
     C -- Ya -->D[/masukkan nilai L/];
     D --> E{inputan angka}
